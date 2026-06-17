@@ -94,7 +94,7 @@ AI-powered wardrobe platform. Outfit intelligence, usage tracking, occasion-base
 
 `React Native` `Expo` `TypeScript` `FastAPI` `MongoDB` `AWS`
 
-[→ Frontend](https://github.com/YOUR_USERNAME/mycloset-frontend) &nbsp; [→ Backend](https://github.com/YOUR_USERNAME/mycloset-backend) &nbsp; [→ AI Service](https://github.com/YOUR_USERNAME/mycloset-ai) &nbsp; [→ Demo](https://github.com/YOUR_USERNAME/mycloset-backend)
+[→ Frontend](https://github.com/AlaaMuhissen/myCloset_frontend) &nbsp; [→ Backend](https://github.com/AlaaMuhissen/myCloset_backend) &nbsp; [→ AI Service](https://github.com/AlaaMuhissen/myCloset_ML) &nbsp; [→ Video Demo](https://myclosetapp.s3.eu-west-1.amazonaws.com/myCloset_video.mp4)
 
 </td>
 <td width="50%" valign="top">
@@ -104,19 +104,19 @@ Mental health support platform. Designed for users under pressure — low fricti
 
 `React` `Node.js` `Supabase` `Firebase`
 
-[→ Frontend](https://github.com/YOUR_USERNAME/mycloset-frontend) &nbsp; [→ Backend](https://github.com/YOUR_USERNAME/mycloset-backend) &nbsp; [→ Live](https://github.com/YOUR_USERNAME/mycloset-backend)
+[→ Frontend](https://github.com/AlaaMuhissen/pure_self) &nbsp; [→ Backend](https://github.com/AlaaMuhissen/pure_self_backend) &nbsp; [→ Live](https://pure-self.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📐 Surveying Office System
+### 📐 Fielo 
 Complete business management for a surveying firm. Project tracking, client workflows, document management. Used daily in production.
 
 `Full-Stack` `SQL` `Node.js`
 
-[→ Frontend](https://github.com/YOUR_USERNAME/mycloset-frontend) &nbsp; [→ Backend](https://github.com/YOUR_USERNAME/mycloset-backend) &nbsp; [→ Live](https://github.com/YOUR_USERNAME/mycloset-backend)
+[→ Frontend](https://github.com/AlaaMuhissen/survey-contracts-system) &nbsp; [→ Backend](https://github.com/AlaaMuhissen/survey-contracts-system-backend) &nbsp; [→ Live](https://fielo.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
