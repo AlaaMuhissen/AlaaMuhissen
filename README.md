@@ -23,7 +23,7 @@ $ whoami → builder · implementer · educator
 
 ---
 
-## `> about.me`
+## ▶ about.me
 
 Most developers write code. I write code, **ship it into production inside a hospital**, train 200+ clinical staff on it, and then go home and build AI-powered products.
 
@@ -35,7 +35,7 @@ I've been mentoring women in tech through **[QueenB](https://www.queenb.org/)** 
 
 ---
 
-## `> currently_building`
+## ▶ currently_building
 
 ```typescript
 const projects = [
@@ -58,17 +58,25 @@ const projects = [
 
 ---
 
-## `> tech_stack`
+## ▶ tech_stack
 
 **Frontend**
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Auth**
+
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
 **Backend & Services**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
@@ -83,7 +91,7 @@ const projects = [
 
 ---
 
-## `> projects`
+## ▶ projects
 
 <table>
 <tr>
@@ -94,7 +102,10 @@ AI-powered wardrobe platform. Outfit intelligence, usage tracking, occasion-base
 
 `React Native` `Expo` `TypeScript` `FastAPI` `MongoDB` `AWS`
 
-[→ Frontend](https://github.com/AlaaMuhissen/myCloset_frontend) &nbsp; [→ Backend](https://github.com/AlaaMuhissen/myCloset_backend) &nbsp; [→ AI Service](https://github.com/AlaaMuhissen/myCloset_ML) &nbsp; [→ Video Demo](https://myclosetapp.s3.eu-west-1.amazonaws.com/myCloset_video.mp4)
+[![Frontend](https://img.shields.io/badge/📱_Frontend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/myCloset_frontend)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/myCloset_backend)
+[![AI Service](https://img.shields.io/badge/🤖_AI_Service-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/myCloset_ML)
+[![Video Demo](https://img.shields.io/badge/🎬_Video_Demo-FF0000?style=flat-square&logoColor=white)](https://myclosetapp.s3.eu-west-1.amazonaws.com/myCloset_video.mp4)
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +115,9 @@ Mental health support platform. Designed for users under pressure — low fricti
 
 `React` `Node.js` `Supabase` `Firebase`
 
-[→ Frontend](https://github.com/AlaaMuhissen/pure_self) &nbsp; [→ Backend](https://github.com/AlaaMuhissen/pure_self_backend) &nbsp; [→ Live](https://pure-self.vercel.app/)
+[![Frontend](https://img.shields.io/badge/💜_Frontend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/pure_self)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/pure_self_backend)
+[![Live](https://img.shields.io/badge/🌐_Live-3ECF8E?style=flat-square&logoColor=white)](https://pure-self.vercel.app/)
 
 </td>
 </tr>
@@ -116,8 +129,9 @@ Complete business management for a surveying firm. Project tracking, client work
 
 `Full-Stack` `SQL` `Node.js`
 
-[→ Frontend](https://github.com/AlaaMuhissen/survey-contracts-system) &nbsp; [→ Backend](https://github.com/AlaaMuhissen/survey-contracts-system-backend) &nbsp; [→ Live](https://fielo.vercel.app/)
-
+[![Frontend](https://img.shields.io/badge/📐_Frontend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/survey-contracts-system)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlaaMuhissen/survey-contracts-system-backend)
+[![Live](https://img.shields.io/badge/🌐_Live-3ECF8E?style=flat-square&logoColor=white)](https://fielo.vercel.app/)
 </td>
 <td width="50%" valign="top">
 
@@ -132,7 +146,7 @@ Deploying and training clinical teams on health information platforms at a leadi
 
 ---
 
-## `> by_the_numbers`
+## ▶ by_the_numbers
 
 <div align="center">
 
@@ -144,7 +158,7 @@ Deploying and training clinical teams on health information platforms at a leadi
 
 ---
 
-## `> github_stats`
+## ▶ github_stats
 
 <div align="center">
 
@@ -158,7 +172,7 @@ Deploying and training clinical teams on health information platforms at a leadi
 
 ---
 
-## `> exploring`
+## ▶ exploring
 
 ```python
 learning = [
